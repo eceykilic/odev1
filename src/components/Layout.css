@@ -1,0 +1,39 @@
+body {
+  min-width: 750px;
+}
+
+header {
+  padding: 2rem;
+  background: #407088;
+  text-align: center;
+  color: #ffcbcb;
+  font-size: larger;
+}
+
+footer {
+  background: #407088;
+  padding: 1rem;
+  text-align: center;
+}
+
+.error-container {
+  width: 70vw;
+  margin: 25%;
+  text-align: center;
+  min-height: 20vh;
+}
+
+.content-section {
+  display: flex;
+  justify-content: stretch;
+  min-height: 50vh;
+  background-color: #ffcbcb;
+}
+
+form {
+  margin: auto;
+  background-color: #ffb5b5;
+  padding: 3rem;
+  height: 750px;
+  border: 2px #407088 dashed;
+}
